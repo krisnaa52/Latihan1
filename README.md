@@ -38,16 +38,16 @@ directory)
 * Buatlah direktory "Latihan" kemudian masuk ke direktory tersebut 
 ## ![GitHub Logo](2.png) <h2>
 * Lakukan "git init" untuk menjadikan repository lokal 
-![GitHub Logo](3.png)
+## ![GitHub Logo](3.png) <h2>
 * Buat File Bernama "README.md" (text file), jika file berhasil dibuat, akan tampil seperti dlm gambar
-![GitHub Logo](4.png)
+## ![GitHub Logo](4.png) <h2>
 * kemudian tambahkan file tersebut ke repository dengan " git add 
 README.md, file yang berhasil ditambahkan akan terlihat seperti di 
 gambar, dengan "git status" 
-![GitHub Logo](5.png)
+## ![GitHub Logo](5.png) <h2>
 * Untuk  Menyimpan perubahan sebuah file ke repository local gunakan 
 printah " git commit -m "perubahan yang terjadi"
-![GitHub Logo](6.png)
+## ![GitHub Logo](6.png)<>
 ## Membuat repository server <h2>
 * Server reopsitory yang akan kita gunakan adalah http://github.com
 * Anda harus membuat akun terlebih dahulu. • Pada laman github, klik tombol start a project, atau
