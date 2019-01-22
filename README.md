@@ -1,33 +1,36 @@
 # Tutorial Penggunaan Git <h1>
 # Apa itu Git? <h2>
-* Git adalah salah satu sistem pengontrol versi (Version Control
-System) pada proyek perangkat lunak yang diciptakan oleh Linus
+* Git adalah salah satu sistem pengontrol versi (_Version Control
+System_) pada proyek perangkat lunak yang diciptakan oleh Linus
 Torvalds. 
 * Pengontrol versi bertugas mencatat setiap perubahan pada file
 proyek yang dikerjakan oleh banyak orang maupun sendiri. 
-* Git dikenal juga dengan distributed revision control (VCS terdistribusi),
+* Git dikenal juga dengan distributed revision control (_VCS terdistribusi_),
 artinya penyimpanan database Git tidak hanya berada dalam satu
 tempat saja
 
 # Menambahkan Global Config <h2>
-* Pada saat pertama kali menggunakan git, perlu dilakukan konfigurasi
-user name dan user email
+* Pada saat pertama kali menggunakan git, perlu dilakukan **konfigurasi
+user name dan user email**
 * konfigurasi ini bisa dilakukan untuk global repostiry atau individual
 repository. 
 * apabila belum dilakukan konfigurasi, akan mengakibatkan terjadi
-kegagalan saat menjalankan perintah git commit
+**kegagalan** saat menjalankan perintah git commit
 * Lakukan "git config --global user.name dan emal " 
 supaya bisa login github ketika push
-![GitHub Logo](1.png) 
+#![GitHub Logo](1.png) 
 
 # Perintah Dasar Git <h2>
-* git init, perintah untuk membuat repository local
-* git add, perintah untuk menambahkan file baru, atau perubahan
+* _**git init**_, perintah untuk membuat repository local
+* _**git add**_, perintah untuk menambahkan file baru, atau perubahan
 pada file pada staging sebelum proses commit. 
-* git commit, perintah untuk menyimpan perubahan kedalam database git. 
-* git push -u origin master, perintah untuk mengirim perubahan pada repository local menuju server repository. 
-* git clone [url], perintah untuk membuat working directory yang diambil dari repositry sever.
-* git remote add origin [url], perintah untuk menambahkan remote server/reopsitory server pada local repositry (working directory)
+* _**git commit**_, perintah untuk menyimpan perubahan kedalam database git. 
+* _**git push -u origin master**_, perintah untuk mengirim perubahan pada repository 
+local menuju server repository. 
+* _**git clone [url]**_, perintah untuk membuat working directory yang diambil dari 
+repositry sever.
+* _**git remote add origin [url]**_, perintah untuk menambahkan remote 
+server/reopsitory server pada local repositry (working directory)
 
 # Membuat Reposiory Local <h2>
 * Buka direktory aktif, misal: c:/Latihan
