@@ -1,6 +1,5 @@
-# This is an <h1> tag
-<h1> *tag*
- Cara Penggunaan Git <h2> tag
+# Tutorial Penggunaan Git <h1>
+
 
 * Lakukan "git config --global user.name dan emal " 
 supaya bisa login github ketika push 
