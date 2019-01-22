@@ -1,5 +1,5 @@
-#** Tutorial **<h1>#
-##* Cara Penggunaan Git *<h2>##
+#** Tutorial **<h1> tag
+##* Cara Penggunaan Git *<h2> tag
 
 * Lakukan "git config --global user.name dan emal " 
 supaya bisa login github ketika push 
