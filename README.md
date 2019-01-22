@@ -47,7 +47,7 @@ gambar, dengan "git status"
 ## ![GitHub Logo](5.png) <h2>
 * Untuk  Menyimpan perubahan sebuah file ke repository local gunakan 
 printah " git commit -m "perubahan yang terjadi"
-## ![GitHub Logo](6.png)<>
+## ![GitHub Logo](6.png)
 ## Membuat repository server <h2>
 * Server reopsitory yang akan kita gunakan adalah http://github.com
 * Anda harus membuat akun terlebih dahulu. • Pada laman github, klik tombol start a project, atau
@@ -67,7 +67,7 @@ git remote add origin [url]
 * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
 * Gunakan printah " git push -u origin master" 
-![GitHub Logo](8.png)
+## ![GitHub Logo](8.png)
 
 ## Melihat hasilnya pada server repository <h2>
 * Buka laman github.com, arahkan pada repositori- nya. 
