@@ -35,15 +35,15 @@ pada file pada staging sebelum proses commit.
 * Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change
 directory)
 * direktory aktif menjadi: c:/Latihan 
-* Buatlah direktory "Latihan" kemudian masuk ke direktory tersebut
-![GitHub Logo](2.png)
-* Lakukan "git init" untuk menjadikan repository lokal
+* Buatlah direktory "Latihan" kemudian masuk ke direktory tersebut 
+'<addr>'![GitHub Logo](2.png)
+* Lakukan "git init" untuk menjadikan repository lokal 
 ![GitHub Logo](3.png)
 * Buat File Bernama "README.md" (text file), jika file berhasil dibuat, akan tampil seperti dlm gambar
 ![GitHub Logo](4.png)
 * kemudian tambahkan file tersebut ke repository dengan " git add 
 README.md, file yang berhasil ditambahkan akan terlihat seperti di 
-gambar, dengan "git status"
+gambar, dengan "git status" 
 ![GitHub Logo](5.png)
 * Untuk  Menyimpan perubahan sebuah file ke repository local gunakan 
 printah " git commit -m "perubahan yang terjadi"
@@ -66,10 +66,10 @@ git remote add origin [url]
 ## Push (Mengirim perubahan ke server) <h2>
 * Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
 * Perintah ini akan meminta memasukkan username dan password pada akun github.com
-* Gunakan printah " git push -u origin master"
+* Gunakan printah " git push -u origin master" 
 ![GitHub Logo](8.png)
 
 ## Melihat hasilnya pada server repository <h2>
 * Buka laman github.com, arahkan pada repositori- nya. 
-* Maka perubahan akan terlihat pada laman tersebut.
+* Maka perubahan akan terlihat pada laman tersebut. 
 ![GitHub Logo](9.png)
