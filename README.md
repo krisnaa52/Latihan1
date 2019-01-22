@@ -36,7 +36,7 @@ pada file pada staging sebelum proses commit.
 directory)
 * direktory aktif menjadi: c:/Latihan 
 * Buatlah direktory "Latihan" kemudian masuk ke direktory tersebut 
-'<addr>'![GitHub Logo](2.png)
+## ![GitHub Logo](2.png) <h2>
 * Lakukan "git init" untuk menjadikan repository lokal 
 ![GitHub Logo](3.png)
 * Buat File Bernama "README.md" (text file), jika file berhasil dibuat, akan tampil seperti dlm gambar
