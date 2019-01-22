@@ -1,4 +1,4 @@
-#** Tutorial **<h1> tag
+#<h1> *tag*
 ##* Cara Penggunaan Git *<h2> tag
 
 * Lakukan "git config --global user.name dan emal " 
